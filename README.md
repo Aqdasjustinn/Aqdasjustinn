@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hey! I’m currently pursuing my B.Tech with a specialization in Artificial Intelligence, diving deep into the world of smart machines and clever algorithms. I’m a coding enthusiast who speaks fluent C++ and DSA, and I can also make the web look nice with HTML, CSS, JS, and React. 
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqdas_justin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aqdas-695129282) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Justin-Aqdas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yunusaqdas@gmail.com) 
 
