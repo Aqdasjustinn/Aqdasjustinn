@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m currently pursuing my B.Tech <br>with a specialization in Artificial Intelligence, <br>diving deep into the world of smart machines<br>and clever algorithms. <br>I’m a coding enthusiast who speaks fluent C++ and DSA, <br>and I can also make the web <br>look nice with HTML, CSS, JS, and React. 
+Hey! I’m currently pursuing my B.Tech with a specialization in Artificial Intelligence, diving deep into the world of smart machines and clever algorithms. I’m a coding enthusiast who speaks fluent C++ and DSA, and I can also make the web look nice with HTML, CSS, JS, and React. 
 
 
 ## 🌐 Socials:
